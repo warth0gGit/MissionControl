@@ -1,0 +1,5 @@
+{
+  "name": "missioncontrol",
+  "owner": { "name": "warth0gGit" },
+  "plugins": [{ "name": "mission-control", "source": "./", "description": "See every thread's state, how they connect, and your usage limits at a glance" }]
+}
